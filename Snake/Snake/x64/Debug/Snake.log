@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\smenez\source\repos\Snake\Snake\main.c(21,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\smenez\source\repos\Snake\Snake\main.c(86,1): warning C4715: 'SDL_main' : les chemins de contrôle ne retournent pas tous une valeur
+  Snake.vcxproj -> C:\Users\smenez\source\repos\Snake\x64\Debug\Snake.exe
